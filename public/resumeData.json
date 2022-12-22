@@ -79,18 +79,12 @@
         "name":"Laatoitus",
         "level":"90%"
       },
-      {
-        "name":"Timpurin työt",
-        "level":"75%"
-      },
+
       {
         "name":"Hieronta",
         "level":"65%"
       },
-      {
-        "name":"Purkutyöt",
-        "level":"90%"
-      },
+
       {
         "name":"Pyörän huolto",
         "level":"80%"
@@ -101,6 +95,7 @@
       }
     ]
   },
+  
   "portfolio":{
     "projects": [
       {
@@ -110,17 +105,12 @@
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Timpurin työt",
+        "title":"Pienrakentaminen",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
         "url":"http://www.timbakerdev.com"
       },
-      {
-        "title":"Purkutyöt",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
+
       {
         "title":"Hieronta",
         "category":"A React based resume website template",
