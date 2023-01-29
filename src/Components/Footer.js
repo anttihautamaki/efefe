@@ -24,12 +24,7 @@ class Footer extends Component {
 
               <ul className="copyright">
                 <li>&copy; TMI Hannu Hautamäki</li>
-                <li>
-                  Tekijä{" "}
-                  <a title="Antti Hautamäki" href="http://www.styleshout.com/">
-                    Antti Hautamäki
-                  </a>
-                </li>
+                
               </ul>
             </div>
           </Fade>
