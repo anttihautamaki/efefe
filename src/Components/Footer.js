@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; TMI Hannu Hautamäki</li>
+                <li>&copy; Antti Hautamäki</li>
                 
               </ul>
             </div>

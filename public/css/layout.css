@@ -1018,7 +1018,9 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .project-btn{
    background-color: #1abc9c !important;
+   visibility: hidden;
 }
 .github-btn{
    background-color: #34495e !important;
+   visibility: hidden;
 }
