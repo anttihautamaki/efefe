@@ -1,25 +1,23 @@
 {
   "main": {
-    "name":"TMI Hannu Hautamäki",
-    "description":"Olen tehnyt pitkää uraa rakennusalalla, toiminut hierojana sekä yrittäjänä. Minulta saat apua rakennustöihin, erikoisalaani on laatoitus. Hierontaakin voin tehdä sekä huoltaa polkupyöriä.",
-    "image":"profilepic.jpg",
-    "bio":"Hei! Olen Hannu Hautamäki. Monen homman mies. Osaan laatoittaa, huoltaa pyöriä sekä hieroa. Olen myös toiminut rakennusalan yrittäjänä noin 10 vuotta sitten.",
-    "contactmessage":"Ota yhteyttä alla olevalla lomakkeella, niin saadaan kylpyhuoneesi, hartiasti tai pyöräsi uuteen kuntoon.",
-    "email": "huh1967@gmail.com",
-    "phone": "0503472067",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"Antti Hautamäki",
+    "description":"Bachelor of mechanical engineering. Someday I'd like to be a proper programmer or engineer.",
+    "image":"profile.jpg",
+    "bio":"I am relatively new to the world of coding. During my studies I did one course of C#, otherwise I am self taught. This resume is made on a template by Tim Baker.",
+    "contactmessage":"The form is not functional at the moment",
+    "email": "anttihautamaeki@gmail.com",
+    "phone": "0453477477",
+    "github":"https://github.com/anttihautamaki",
     "address":{
-      "street":"Aleksanterinkatu",
+      "street":"Kajaanintie 36 B 24",
       "city":"Oulu",
-      "zip": "90100"
+      "zip": "90130"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/mahtava.antti/",
         "className":"fa fa-facebook"
       },
       {
@@ -29,107 +27,78 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/anttihautamaki1/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/antttivain/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/anttihautamaki",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are listed some skills I believe are relevant",
     "education":[
       {
-        "school":"PSK",
-        "degree":"Merkonomi",
+        "school":"Oulu University of Applied Sciences",
+        "degree":"Bachelor of mechanical engineering",
         "graduated":"2022",
-        "description":"Merkonomin tutkinto."
+        "description":"Mechanical engineering, oriented in production technology"
       },
       {
-        "school":"OSAO",
-        "degree":"Rakennusalan perustutkinto",
-        "graduated":"3.2000",
-        "description":"Rakennusalan perustutkinto, jossa käytiin läpi kaikkien eri osa-alueiden perusteet."
+        "school":"Merikosken lukio",
+        "degree":"A-level, ylioppilastutkinto",
+        "graduated":"2014",
+        "description":"General upper secondary school"
       }
     ],
     "work":[
       {
-        "company":"Remonttimylly",
-        "title":"Laatoittaja",
-        "years":"XX - 2022",
-        "description":"Kylpyhuoneiden laatoittamissa, niin uusissa kuin remontoiduissa kohteissa."
+        "company":"Prysmian Group Finland Oy",
+        "title":"Kaapelityöntekijä, cable worker",
+        "years":"4.2022-9.2022",
+        "description":"Manufacturing cables, finding out what is wrong unaccepted ones."
       },
       {
-        "company":"HB Priima Kivitalot",
-        "title":"Myyjä",
-        "years":"20XX - 20XX",
-        "description":"Myin kivitaloja ja harkkoja."
+        "company":"iLoq Oy",
+        "title":"Trainee, thesis worker",
+        "years":"5.2021 - 12.2021",
+        "description":"Summer trainee and thesis. Thesis was done on yield automation."
       },
       {
-        "company":"Karjaportti",
-        "title":"Lihanleikkaaja",
-        "years":"XX - 1999",
-        "description":"Lihanleikkaajana. Jouduin lopettamaan työt, sillä ranteeni ei enää kestänyt."
+        "company":"Outokumpu Oy",
+        "title":"Production worker, crane operator",
+        "years":"5.2020-9.2020",
+        "description":"Crane operator at the steel melting shop."
       }
     ],
     "skills":[
       {
-        "name":"Laatoitus",
-        "level":"90%"
+        "name":"Javascript",
+        "level":"60%"
       },
 
       {
-        "name":"Hieronta",
+        "name":"Python",
+        "level":"50%"
+      },
+
+      {
+        "name":"HTML5",
         "level":"65%"
       },
-
       {
-        "name":"Pyörän huolto",
-        "level":"80%"
-      },
-      {
-        "name":"Sähköpyörän huolto",
-        "level":"50%"
+        "name":"Microsoft Excel",
+        "level":"70%"
       }
-    ]
-  },
-  
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Laatoitus",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Pienrakentaminen",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-
-      {
-        "title":"Hieronta",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Pyörähuolto",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-      
     ]
   }
+  
+
 }
